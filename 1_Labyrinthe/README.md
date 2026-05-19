@@ -25,6 +25,7 @@ Le robot utilise un servomoteur pour orienter un capteur de distance à ultrason
 Voici le plan de câblage des composants sur le châssis :
 
 ![Schéma de câblage](robot%201.jpeg)
+![Câblage Servo et Capteur Ultrasons](cablage%20servo%20et%20capteur%20ultras.jpeg)
 
 ---
 
