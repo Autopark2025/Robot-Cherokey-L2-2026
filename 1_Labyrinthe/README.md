@@ -31,6 +31,11 @@ Voici les plans de câblage ainsi que la vue réelle des connexions des composan
 #### 2. Voici le plan de câblage détaillé du servomoteur et du capteur à ultrasons **DFRobot URM37 V3.2** connectés sur la carte principale **RoMeo BLE V1.0** :
 
 ![Schéma de câblage](cablage%20servo%20et%20capteur%20ultras.jpg)
+### 🛠️ Schéma Électronique et Câblage
+
+Voici le plan de câblage détaillé du servomoteur et du capteur à ultrasons DFRobot URM37 V3.2 connectés sur la carte principale RoMeo BLE V1.0 :
+
+![schema](cablage%20servo%20et%20capteur%20ultras.jpg)
 
 ## 🧠 Logique de l'Algorithme
 1. **Scan initial :** Le robot avance par défaut tant que la voie est libre.
