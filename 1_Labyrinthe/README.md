@@ -21,21 +21,19 @@ Le robot utilise un servomoteur pour orienter un capteur de distance à ultrason
 | **Servo moteur** | Signal servo : **Pin 9** | Servo |
 | **Capteur Ultrasons** | Écho (`URPWM`) : **Pin 3** <br> Déclencheur (`URTRIG`) : **Pin 10** | Entrée Numérique <br> Sortie Numérique |
 
-### 🛠️ Schéma Électronique et Câblage Réel
+### 🔌 Schéma Électronique et Câblage
 
-Voici les plans de câblage ainsi que la vue réelle des connexions des composants sur le châssis :
+Voici les plans de câblage ainsi que les connexions des composants sur le châssis :
 
 #### 1. Schéma global des connexions
-![Schéma de câblage](robot%201.jpeg)
+![Schéma global](robot%201.jpeg)
 
-#### 2. Voici le plan de câblage détaillé du servomoteur et du capteur à ultrasons **DFRobot URM37 V3.2** connectés sur la carte principale **RoMeo BLE V1.0** :
-
-![Schéma de câblage](cablage%20servo%20et%20capteur%20ultras.jpg)
-### 🛠️ Schéma Électronique et Câblage
-
-Voici le plan de câblage détaillé du servomoteur et du capteur à ultrasons DFRobot URM37 V3.2 connectés sur la carte principale RoMeo BLE V1.0 :
+#### 2. Plan de câblage détaillé (Servo et Capteur Ultrasons)
+Voici le câblage précis du servomoteur et du capteur à ultrasons **DFRobot URM37 V3.2** connectés sur la carte principale **RoMeo BLE V1.0** :
 
 ![schema](cablage%20servo%20et%20capteur%20ultras.jpg)
+
+---
 
 ## 🧠 Logique de l'Algorithme
 1. **Scan initial :** Le robot avance par défaut tant que la voie est libre.
