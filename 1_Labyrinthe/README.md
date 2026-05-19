@@ -31,7 +31,7 @@ Voici les plans de câblage ainsi que les connexions des composants sur le châs
 #### 2. Plan de câblage détaillé (Servo et Capteur Ultrasons)
 Voici le câblage précis du servomoteur et du capteur à ultrasons **DFRobot URM37 V3.2** connectés sur la carte principale **RoMeo BLE V1.0** :
 
-![schema](cablage%20servo%20et%20capteur%20ultras.png)
+<img width="1038" height="787" alt="cablage servo et capteur ultras" src="https://github.com/user-attachments/assets/e885844d-631c-4ddc-b85d-c9e97f9ac547" />
 
 ---
 
