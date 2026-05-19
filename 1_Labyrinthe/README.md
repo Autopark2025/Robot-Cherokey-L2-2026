@@ -21,13 +21,15 @@ Le robot utilise un servomoteur pour orienter un capteur de distance à ultrason
 | **Servo moteur** | Signal servo : **Pin 9** | Servo |
 | **Capteur Ultrasons** | Écho (`URPWM`) : **Pin 3** <br> Déclencheur (`URTRIG`) : **Pin 10** | Entrée Numérique <br> Sortie Numérique |
 
-### Schéma Électronique
-Voici le plan de câblage des composants sur le châssis :
+### 🛠️ Schéma Électronique et Câblage Réel
 
+Voici les plans de câblage ainsi que la vue réelle des connexions des composants sur le châssis :
+
+#### 1. Schéma global des connexions
 ![Schéma de câblage](robot%201.jpeg)
-![Câblage Servo et Capteur Ultrasons](cablage%20servo%20et%20capteur%20ultras.jpeg)
 
----
+#### 2. Zoom sur le câblage du servomoteur et du capteur à ultrasons
+![Câblage Servo et Capteur Ultrasons](cablage%20servo%20et%20capteur%20ultras.jpg)
 
 ## 🧠 Logique de l'Algorithme
 1. **Scan initial :** Le robot avance par défaut tant que la voie est libre.
